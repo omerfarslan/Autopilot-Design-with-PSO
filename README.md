@@ -1,5 +1,5 @@
 # Autopilot-Design-with-PSO
-Three-Loop Autopilot Design with PSO and Plane Method
+
 In this project we are trying to find best time domain performance from the autopilot where we obey the frequency
 domain requirements. Obviously, this is an optimization problem and solved by "particle swarm optimization(PSO)".
 The algorithm that we used in PSO solver is modified by us such that; it restart itselves every 1/5 th of the 
